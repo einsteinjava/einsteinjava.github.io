@@ -16,10 +16,9 @@ Warm Regard.
 - ⚡ Fun fact: My daily challenge is to brainstorm innovative ways to monetize a simple cup of coffee without traditionally sale it.
 - 👯 I’m looking to collaborate on software development.
 - 📫 [Drop me your task description](mailto:einstein.java@gmail.com)
-
-<!--
 - 📄 [CV](https://drive.google.com/file/d/1cAfC8mp-ocbvPXqX3d6ANi-_AVqr00VT/view?usp=drive_link)
 
+<!--
 **einsteinjava/einsteinjava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
